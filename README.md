@@ -6,7 +6,7 @@ This site is also linked to "praz18.github.io".
 Logan (Praz18)
 
 ## Credits
-Credits to Eric Pogue for Template
+Credits to Eric Pogue for Template. Credits to GitHub and GitPages for hosting the site.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
